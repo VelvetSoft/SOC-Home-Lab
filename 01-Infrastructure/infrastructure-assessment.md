@@ -33,6 +33,14 @@
 - Investigate suspicious activities.
 - Document security investigations.
 
+- ## 6. Host System Evidence
+
+### RAM Configuration
+![Host RAM](screenshots/01-host-system-ram.png)
+
+### CPU Configuration
+![Host CPU](screenshots/02-host-system-cpu.png)
+
 ## 5. Next Steps
 
 - Assess available disk space.
